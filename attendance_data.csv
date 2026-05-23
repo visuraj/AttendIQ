@@ -1,0 +1,31 @@
+employee_id,name,department,date,scheduled_in,scheduled_out,actual_in,actual_out,status
+E101,Priya Shah,Customer Success,2026-05-18,09:30,18:30,09:52,18:41,present
+E102,Rahul Mehta,Engineering,2026-05-18,09:00,18:00,08:55,18:00,present
+E103,Sneha Kulkarni,HR,2026-05-18,09:00,18:00,09:00,17:30,present
+E104,Arjun Nair,Operations,2026-05-18,08:00,17:00,08:11,16:45,present
+E105,Divya Rao,Sales,2026-05-18,10:00,19:00,10:00,19:05,present
+E106,Karan Patel,Engineering,2026-05-18,09:00,18:00,09:45,18:00,present
+E107,Meera Joshi,Finance,2026-05-18,09:30,18:30,09:30,18:30,present
+E108,Amit Sharma,Operations,2026-05-18,08:00,17:00,08:00,17:00,present
+E109,Pooja Iyer,Customer Success,2026-05-18,09:30,18:30,,,absent
+E110,Rohan Das,Sales,2026-05-18,10:00,19:00,10:25,19:00,present
+E101,Priya Shah,Customer Success,2026-05-19,09:30,18:30,09:28,18:30,present
+E102,Rahul Mehta,Engineering,2026-05-19,09:00,18:00,09:05,17:45,present
+E103,Sneha Kulkarni,HR,2026-05-19,09:00,18:00,,,absent
+E104,Arjun Nair,Operations,2026-05-19,08:00,17:00,08:00,17:00,present
+E105,Divya Rao,Sales,2026-05-19,10:00,19:00,10:15,19:00,present
+E106,Karan Patel,Engineering,2026-05-19,09:00,18:00,09:00,18:00,present
+E107,Meera Joshi,Finance,2026-05-19,09:30,18:30,09:55,18:30,present
+E108,Amit Sharma,Operations,2026-05-19,08:00,17:00,08:00,16:30,present
+E109,Pooja Iyer,Customer Success,2026-05-19,09:30,18:30,09:30,18:30,present
+E110,Rohan Das,Sales,2026-05-19,10:00,19:00,10:00,18:50,present
+E101,Priya Shah,Customer Success,2026-05-20,09:30,18:30,09:30,18:30,present
+E102,Rahul Mehta,Engineering,2026-05-20,09:00,18:00,09:00,18:00,present
+E103,Sneha Kulkarni,HR,2026-05-20,09:00,18:00,09:10,18:00,present
+E104,Arjun Nair,Operations,2026-05-20,08:00,17:00,08:20,17:00,present
+E105,Divya Rao,Sales,2026-05-20,10:00,19:00,10:00,19:00,present
+E106,Karan Patel,Engineering,2026-05-20,09:00,18:00,09:00,17:55,present
+E107,Meera Joshi,Finance,2026-05-20,09:30,18:30,09:30,18:30,present
+E108,Amit Sharma,Operations,2026-05-20,08:00,17:00,08:00,17:00,present
+E109,Pooja Iyer,Customer Success,2026-05-20,09:30,18:30,09:45,18:30,present
+E110,Rohan Das,Sales,2026-05-20,10:00,19:00,,,absent
