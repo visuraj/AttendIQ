@@ -10,7 +10,7 @@ then ask natural language questions and get cited answers with:
 ---
 
 ## 🎬 Demo
-[▶ Watch demo video](YOUR_DEMO_LINK_HERE)
+[▶ Watch demo video]  https://drive.google.com/file/d/14CtyG-6SAEqb88lZN7E9acryW6KK89bp/view?usp=sharing
 
 ---
 
@@ -46,14 +46,14 @@ attendance_data.csv  +  attendance_policy.md
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/attendiq.git
+git clone https://github.com/visuraj/AttendIQ
 cd attendiq
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 streamlit run src/app.py
 ```
 
-Open http://localhost:8501 — enter API key → click Load & Index Data → ask questions.
+Open http://localhost:8501 — enter API key(Your Google_API)→ click Load & Index Data → ask questions.
 
 ---
 
