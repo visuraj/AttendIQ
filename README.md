@@ -49,8 +49,8 @@ attendance_data.csv  +  attendance_policy.md
 <<<<<<< HEAD
 git clone https://github.com/visuraj/AttendIQ
 =======
-https://github.com/visuraj/AttendIQ.git
->>>>>>> fbf32ea9dfffece04444087feb89d96d3e53cc44
+
+>>>>>>> fbf32ea9dfffece04444087feb89d96d3e53
 cd attendiq
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
